@@ -1,0 +1,28 @@
+h1{
+    padding: 50px;
+    background-color: #31294c;
+    color: #afdfff;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background: linear-gradient(#20173d 0%, #1e1d57 40%, #3b3c7c 100%);
+    margin-bottom: 10%;
+}
+.card{
+    display: grid;
+    grid-template-columns: auto;
+    background-color: #3b3c7c;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-header{
+    background-color: #afdfff;
+    color: #1e1d57;
+}
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+}

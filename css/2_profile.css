@@ -1,0 +1,32 @@
+h1{
+    padding: 50px;
+    background-color: #20173d;
+    color: #afdfff;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background: linear-gradient(#20173d 0%, #1e1d57 40%, #3b3c7c 100%);
+    margin-bottom: 20%;
+}
+header{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+h5{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    width: 50%;
+    height: 100%;
+    border: #31294c solid;
+}
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,65 @@
+body{
+    background: linear-gradient(#20173d 0%, #1e1d57 40%, #3b3c7c 100%);
+    margin-bottom: 5%;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 200px;
+}
+.photoprofile{
+    width: 200px;
+    background-color: var(--background);
+    border: 5px solid #fff; 
+}
+.profile h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #afdfff;
+    padding-top: 50px;
+    font-weight: bold;
+    justify-content: center;
+} 
+.profile h5{
+    font-family: 'Times New Roman', Times, serif;
+    color: #afdfff;
+    padding-bottom: 100px;
+}
+.flex{
+    display: flex;
+    background-color: transparent;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+.flex div{
+    background-color: #afdfff;
+    margin: 30px 300px 0px 300px;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: #3b3c7c;
+    border-radius: 50px;
+    border: #3b3c7c solid;
+    font-family: 'Times New Roman', Times, serif;
+    flex-wrap: wrap;
+}
+.flex div:hover{
+    background-color: #20173d;
+}
+div a:hover{
+    color: #fff;
+}
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.sosmed{
+    display: flex;
+    justify-content: center;
+    color: #afdfff;
+    flex-direction: row wrap;
+    grid-column-gap: 50px;
+}

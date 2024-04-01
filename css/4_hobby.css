@@ -1,0 +1,29 @@
+h1{
+    padding: 50px;
+    background-color: #20173d;
+    color: #afdfff;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background: linear-gradient(#20173d 0%, #1e1d57 40%, #3b3c7c 100%);
+    margin-bottom: 20%;
+}
+.hobby{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    column-gap: 20px;
+}
+.card-body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #3b3c7c;
+    color: #afdfff;
+}
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+}
